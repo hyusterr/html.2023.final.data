@@ -11,6 +11,7 @@ The repository is used to release training data daily to the learners of the NTU
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
         - Third Stage (tentative): <url>
             - test period: 2023/12/18 00:00 ~ 2023/12/23 23:40; learners must submit predictions before 12/17 23:59
+              
 *All timestamp are in UTC+8
 
 ## Metadata
