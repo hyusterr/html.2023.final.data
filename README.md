@@ -2,14 +2,14 @@
 ## Description
 The repository is used to release training data daily to the learners of the NTU course. 
 - Useful Links:
-    - Course Website:
-    - Final Project Guildlines:
+    - Course Website: <url>
+    - Final Project Guildlines: <url>
     - Kaggle competitions:
-        - First Stage:
+        - First Stage: <url>
             - public test period: 2023/10/21 00:00 ~ 2023/10/24 23:40; private test period: 2023/12/04 ~ 2023/12/10; learners must submit predictions before 12/3 23:59
-        - Second Stage:
+        - Second Stage: <url>
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
-        - Third Stage (tentative):
+        - Third Stage (tentative): <url>
             - test period: 2023/12/18 00:00 ~ 2023/12/23 23:40; learners must submit predictions before 12/17 23:59
 *All timestamp are in UTC+8
 
@@ -32,7 +32,7 @@ The repository is used to release training data daily to the learners of the NTU
 ```
 - `sno_test_set.txt`: contains the stations' `sno` that needs to predict in the test set
 - `release/$date`: directory for all training data, where the $date is in YYYYMMDD format
-    - in each directory contains `${sno}.json` files, which record the data of the staion with number`$sno` of the coresponding date in the following format:
+    - in each directory contains `${sno}.json` files, which record the data of each station with number `$sno` of the coresponding date in the following format:
     ```
     {
         timestamp: string in 24-hour format (HH:MM)
@@ -46,6 +46,7 @@ The repository is used to release training data daily to the learners of the NTU
     }
     ```
     - we will update `release` on a daily base.
+For learners that are not familiar with `JSON` format, please refer to <https://en.wikipedia.org/wiki/JSON>.
 
 ## How to use
 You can use the following commands to get the data, where the latest will be released on a daily frequency.
@@ -58,5 +59,5 @@ $ git pull
 If you want to be notified throught your GitHub e-mail whenever there is a update in this repository, please click `Watch` on the up-right corne
 
 For learners who are new to `git` and `Github`, please refer to the tutorials made by the GitHub offical to setting up the environment for yourself.
-- Quickstart: https://docs.github.com/en/get-started/quickstart
-- Generating a new SSH key and adding it to the ssh-agent: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- Quickstart: <https://docs.github.com/en/get-started/quickstart>
+- Generating a new SSH key and adding it to the ssh-agent: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>
