@@ -57,7 +57,7 @@ $ git clone git@github.com:hyusterr/html.2023.final.data.git
 # use this command to get the latest released data after 13:00 every day
 $ git pull
 ```
-If you want to be notified throught your GitHub e-mail whenever there is a update in this repository, please click `Watch` on the up-right corne
+If you want to be notified through your GitHub e-mail whenever there is a update in this repository, please click `Watch` on the up-right corne
 
 For learners who are new to `git` and `Github`, please refer to the tutorials made by the GitHub offical to setting up the environment for yourself.
 - Quickstart: <https://docs.github.com/en/get-started/quickstart>
