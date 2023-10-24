@@ -2,14 +2,14 @@
 ## Description
 The repository is used to release training data daily to the learners of the NTU course. 
 - Useful Links:
-    - Course Website: <url>
-    - Final Project Guildlines: <url>
+    - Course Website: [url](https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/)
+    - Final Project Guildlines: <TBD>
     - Kaggle competitions:
-        - First Stage: <url>
+        - First Stage: <TBD>
             - public test period: 2023/10/21 00:00 ~ 2023/10/24 23:40; private test period: 2023/12/04 ~ 2023/12/10; learners must submit predictions before 12/3 23:59
-        - Second Stage: <url>
+        - Second Stage: <TBD>
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
-        - Third Stage (tentative): <url>
+        - Third Stage (tentative): <TBD>
             - test period: 2023/12/18 00:00 ~ 2023/12/23 23:40; learners must submit predictions before 12/17 23:59
               
 *All timestamp are in UTC+8
@@ -46,7 +46,7 @@ The repository is used to release training data daily to the learners of the NTU
         ...
     }
     ```
-    - we will update `release` on a daily base.
+    - we will update `release/` on a daily base.
 For learners that are not familiar with `JSON` format, please refer to <https://en.wikipedia.org/wiki/JSON>.
 
 ## How to use
