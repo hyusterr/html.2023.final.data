@@ -1,4 +1,4 @@
-# CSIE 5043 Machine Learning Final Porject
+# CSIE 5043 Machine Learning Final Project
 ## Description
 The repository is used to release training data daily to the learners of the NTU course. 
 - Useful Links:
