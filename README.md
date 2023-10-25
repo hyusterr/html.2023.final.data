@@ -32,7 +32,7 @@ The repository is used to release training data daily to the learners of the NTU
 }
 ```
 - `sno_test_set.txt`: contains the stations' `sno` that needs to predict in the test set
-- `release/$date`: directory for all training data, where the $date is in YYYYMMDD format
+- `release/$date`: directory for all training data, where the `$date` is in YYYYMMDD format
     - in each directory contains `${sno}.json` files, which record the data of each station with number `$sno` of the coresponding date in the following format:
     ```
     {
