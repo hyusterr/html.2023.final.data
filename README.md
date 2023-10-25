@@ -38,9 +38,9 @@ The repository is used to release training data daily to the learners of the NTU
     {
         timestamp: string in 24-hour format (HH:MM)
             {
-                "tot": maximum capacity number of the station at the minute, integars > 0
-                "sbi": the current bike amount of the station at the minute, integars >= 0
-                "bemp": the number of slots available for parking bikes at the minute, integars >= 0
+                "tot": maximum capacity number of the station at the minute, integers > 0
+                "sbi": the current bike amount of the station at the minute, integers >= 0
+                "bemp": the number of slots available for parking bikes at the minute, integers >= 0
                 "act": whether the station is open to use at the minute, where "1" means open and "0" means prohibited, strings
             }
         ...
