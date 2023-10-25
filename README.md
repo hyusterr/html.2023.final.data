@@ -1,6 +1,6 @@
 # CSIE 5043 Machine Learning Final Project
 ## Description
-The repository is used to release training data daily to the learners of the NTU course. 
+The repository is used to daily release training data for the regular track final project to the learners of the NTU course. 
 - Useful Links:
     - Course Website: [from the lecturer's homepage](https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/)
     - Final Project Guildlines: <TBD>
