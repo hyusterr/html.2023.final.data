@@ -8409,6 +8409,16 @@
     "snaen": "YouBike2.0_ADATA Technology",
     "aren": "No. 537， Tanmei St."
   },
+  "500108170": {
+    "sna": "YouBike2.0_太陽科技廣場",
+    "sarea": "內湖區",
+    "lat": 25.08514,
+    "lng": 121.56161,
+    "ar": "內湖路一段91巷16號對側",
+    "sareaen": "Neihu Dist",
+    "snaen": "YouBike2.0_Sun Technology Plaza",
+    "aren": "No. 16， Ln. 91， Sec. 1， Neihu Rd. (Opposite)"
+  },
   "500109001": {
     "sna": "YouBike2.0_承德路七段304巷口",
     "sarea": "北投區",
