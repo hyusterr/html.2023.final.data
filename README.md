@@ -16,21 +16,21 @@ The repository is used to daily release training data for the regular track fina
 
 ## Metadata
 - `demographic.json`: file contains demographic information for each station in the following format:
-```
-{
-    sno: the station ID number for each bike station in string
-        {
-            "sna": the name of the station in Traditional Chinese,
-            "sarea": the district of the station in Traditional Chinese,
-            "lat": the latitude of the station in float,
-            "lng": the longtitude of the station in float,
-            "ar": the address of the station in Traditinal Chinese,
-            "sareaen": the district of the station in English,
-            "aren": the address of the staion in English,
-        }
- ...
-}
-```
+    ```
+    {
+        sno: the station ID number for each bike station in string
+            {
+                "sna": the name of the station in Traditional Chinese,
+                "sarea": the district of the station in Traditional Chinese,
+                "lat": the latitude of the station in float,
+                "lng": the longtitude of the station in float,
+                "ar": the address of the station in Traditinal Chinese,
+                "sareaen": the district of the station in English,
+                "aren": the address of the staion in English,
+            }
+    ...
+    }
+    ```
 - `sno_test_set.txt`: contains the stations' `sno` that needs to predict in the test set
 - `release/$date`: directory for all training data, where the `$date` is in YYYYMMDD format
     - in each directory contains `${sno}.json` files, which record the data of each station with number `$sno` of the coresponding date in the following format:
@@ -47,6 +47,15 @@ The repository is used to daily release training data for the regular track fina
     }
     ```
     - we will update `release/` on a daily base.
+- `sample_submission_stage${i}.csv`: sample submission for each stage in csv format, e.g.
+    ```
+    id,sbi
+    20231021_500101001_06:40,7.89
+    ...
+    ```
+    The first row of your submission must be `id,sbi`, the following row must contain 2 column and seperated by `,`. The first column is the id of your prediction in `YYYYMMDD_${sno}_HH:MM`, where `${sno}` be one of the station number appears in `sno_test_set.txt`, `YYYYMMDD` indicates the format of date, and `HH:MM` is the format of time. (`Y`=year, `M`=month, `D`=day, `H`=hour, `M`=minute). The second column is your bike amount prediction of the bike station at the given timestamp, it can be integer or float. 
+
+
 For learners that are not familiar with `JSON` format, please refer to <https://en.wikipedia.org/wiki/JSON>.
 
 ## How to use
