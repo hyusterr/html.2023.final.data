@@ -4,8 +4,8 @@ The repository is used to daily release training data for the regular track fina
 - Useful Links:
     - Course Website: [from the lecturer's homepage](https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/)
     - Final Project Guildlines: <https://www.csie.ntu.edu.tw/~htlin/course/ml23fall/final/final.pdf>
-    - Kaggle competitions:
-        - First Stage: <TBD>
+    - Kaggle competitions: 
+        - First Stage: <https://www.kaggle.com/t/58d8e1d75cd64bf0942fcf265eb37fc9>
             - public test period: 2023/10/21 00:00 ~ 2023/10/24 23:40; private test period: 2023/12/04 ~ 2023/12/10; learners must submit predictions before 12/3 23:59
         - Second Stage: <TBD>
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
