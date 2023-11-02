@@ -53,7 +53,7 @@ The repository is used to daily release training data for the regular track fina
     20231021_500101001_06:40,7.89
     ...
     ```
-    The first row of your submission must be `id,sbi`, the following rows must contain 2 columns and seperated by `,`. The first column is the id of your prediction in `YYYYMMDD_${sno}_HH:MM`, where `${sno}` must be one of the station number appears in `sno_test_set.txt`, `YYYYMMDD` indicates the format of date, and `HH:MM` is the format of time. (`Y`=year, `M`=month, `D`=day, `H`=hour, `M`=minute). The second column is your bike amount prediction of the bike station at the given timestamp, it can be integer or float. The number of rows should be equal to 88705, that is, 1 row of `id,sbi` and 88704 rows of predictions (112 stations $\times$ predictions per hour $\times$ 24 hours $\times$ (4 days in public set period + 7 days in private set period).
+    The first row of your submission must be `id,sbi`, the following rows must contain 2 columns and seperated by `,`. The first column is the id of your prediction in `YYYYMMDD_${sno}_HH:MM`, where `${sno}` must be one of the station number appears in `sno_test_set.txt`, `YYYYMMDD` indicates the format of date, and `HH:MM` is the format of time. (`Y`=year, `M`=month, `D`=day, `H`=hour, `M`=minute). The second column is your bike amount prediction of the bike station at the given timestamp, it can be integer or float. The number of rows should be equal to 88705, that is, 1 row of `id,sbi` and 88704 rows of predictions (112 stations $\times$ 3 predictions per hour $\times$ 24 hours $\times$ (4 days in public set period + 7 days in private set period).
 
 
 For learners that are not familiar with `JSON` format, please refer to <https://en.wikipedia.org/wiki/JSON>.
