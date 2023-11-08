@@ -2289,6 +2289,16 @@
     "snaen": "YouBike2.0_Datong District Admin. Center",
     "aren": "No. 63， Changji St."
   },
+  "500103065": {
+    "sna": "YouBike2.0_大龍市場",
+    "sarea": "大同區",
+    "lat": 25.07473,
+    "lng": 121.51451,
+    "ar": "重慶北路三段335巷13號對面",
+    "sareaen": "Datong Dist",
+    "snaen": "YouBike2.0_Dalong Market",
+    "aren": "No. 13， Ln. 335， Sec. 3， Chongqing N. Rd. (Opposite)"
+  },
   "500104001": {
     "sna": "YouBike2.0_劍潭抽水站",
     "sarea": "士林區",
