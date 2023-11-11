@@ -1,5 +1,5 @@
 # CSIE 5043 Machine Learning Final Project
-\[2023/11/8 Update\] new station: 500103065
+\[2023/11/8 Update\] new station: 500103065 
 \[2023/11/11 Update\] new station: 500110084
 ## Description
 The repository is used to daily release training data for the regular track final project to the learners of the NTU course. 
