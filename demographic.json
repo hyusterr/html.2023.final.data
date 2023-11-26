@@ -6839,6 +6839,16 @@
     "snaen": "YouBike2.0_Zhulun Park",
     "aren": "No. 42， Ln. 45， Longjiang Rd."
   },
+  "500107143": {
+    "sna": "YouBike2.0_朱崙復興北路口",
+    "sarea": "中山區",
+    "lat": 25.04992,
+    "lng": 121.54379,
+    "ar": "復興北路56號",
+    "sareaen": "Zhongshan Dist",
+    "snaen": "YouBike2.0_Zhulun St. & Fuxing N. Rd. Intersection",
+    "aren": "No. 56， Fuxing N. Rd."
+  },
   "500108001": {
     "sna": "YouBike2.0_文湖街21巷118弄口",
     "sarea": "內湖區",
