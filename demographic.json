@@ -6513,7 +6513,7 @@
     "sna": "YouBike2.0_民權吉林路口(南側)",
     "sarea": "中山區",
     "lat": 25.06245,
-    "lng": 121.53014,
+    "lng": 121.53043,
     "ar": "民權東路二段46號前",
     "sareaen": "Zhongshan Dist",
     "snaen": "YouBike2.0_Minquan Rd. & Jilin Rd. Intersection",
@@ -9278,6 +9278,16 @@
     "sareaen": "Beitou Dist",
     "snaen": "YouBike2.0_Gongguan Rd. & Chengde Rd. Intersection",
     "aren": "No. 390， Sec. 7， Chengde Rd."
+  },
+  "500109089": {
+    "sna": "YouBike2.0_文林北明德路口(東北側)",
+    "sarea": "北投區",
+    "lat": 25.10576,
+    "lng": 121.5173,
+    "ar": "文林北路112號",
+    "sareaen": "Beitou Dist",
+    "snaen": "YouBike2.0_Wenlin N. Rd. & Mingde Rd. Intersection (Northeast)",
+    "aren": "No. 112， Wenlin N. Rd."
   },
   "500110002": {
     "sna": "YouBike2.0_捷運松山站(4號出口)",
