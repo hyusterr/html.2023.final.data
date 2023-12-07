@@ -15,7 +15,7 @@ The repository is used to daily release training data for the regular track fina
     - Kaggle competitions: 
         - First Stage: <https://www.kaggle.com/t/58d8e1d75cd64bf0942fcf265eb37fc9>
             - public test period: 2023/10/21 00:00 ~ 2023/10/24 23:40; private test period: 2023/12/04 ~ 2023/12/10; learners must submit predictions before 12/3 23:59
-        - Second Stage: <TBD>
+        - Second Stage: <https://www.kaggle.com/t/fdc1b0e5b2da42b8bf28aefe512894e5>
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
         - Third Stage (tentative): <TBD>
             - test period: 2023/12/18 00:00 ~ 2023/12/23 23:40; learners must submit predictions before 12/17 23:59
