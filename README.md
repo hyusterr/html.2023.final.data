@@ -17,8 +17,8 @@ The repository is used to daily release training data for the regular track fina
             - public test period: 2023/10/21 00:00 ~ 2023/10/24 23:40; private test period: 2023/12/04 ~ 2023/12/10; learners must submit predictions before 12/3 23:59
         - Second Stage: <https://www.kaggle.com/competitions/html2023fall-final-project-stage-2>
             - test period: 2023/12/11 00:00 ~ 2023/12/17 23:40; learners must submit predictions before 12/10 23:59
-        - Third Stage (tentative): <TBD>
-            - test period: 2023/12/18 00:00 ~ 2023/12/23 23:40; learners must submit predictions before 12/17 23:59
+        - Third Stage (tentative): <https://www.kaggle.com/competitions/html2023fall-final-project-stage-3>
+            - test period: 2023/12/18 00:00 ~ 2023/12/24 23:40; learners must submit predictions before 12/17 23:59
               
 *All timestamp are in UTC+8
 
