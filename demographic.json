@@ -4319,6 +4319,26 @@
     "snaen": "YouBike2.0_China University of Technology",
     "aren": "No. 56， Sec. 3， Xinglong Rd."
   },
+  "500105088": {
+    "sna": "YouBike2.0_樟新街8巷",
+    "sarea": "文山區",
+    "lat": 24.97932,
+    "lng": 121.55406,
+    "ar": "樟新街8巷9號對側",
+    "sareaen": "Wenshan Dist",
+    "snaen": "YouBike2.0_Ln. 8， Zhangxin St.",
+    "aren": "No. 9， Ln. 8， Zhangxin St. (Opposite)"
+  },
+  "500105089": {
+    "sna": "YouBike2.0_仙岩路22巷口",
+    "sarea": "文山區",
+    "lat": 24.99892,
+    "lng": 121.54887,
+    "ar": "仙岩路26號旁",
+    "sareaen": "Wenshan Dist",
+    "snaen": "YouBike2.0_Ln. 22， Xianyan Rd.",
+    "aren": "No. 26， Xianyan Rd."
+  },
   "500106001": {
     "sna": "YouBike2.0_臺北自來水事業處",
     "sarea": "中正區",
@@ -4902,8 +4922,8 @@
   "500106065": {
     "sna": "YouBike2.0_中山徐州路口",
     "sarea": "中正區",
-    "lat": 25.04176,
-    "lng": 121.51866,
+    "lat": 25.04178,
+    "lng": 121.51907,
     "ar": "中山南路/徐州路(東南側)",
     "sareaen": "Zhongzheng Dist",
     "snaen": "YouBike2.0_Zhongshan Rd. & Xuzhou Rd. Intersection",
